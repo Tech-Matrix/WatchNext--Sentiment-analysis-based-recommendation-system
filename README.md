@@ -1,6 +1,6 @@
 # WatchNext--Sentiment-analysis-based-recommendation-system
 <p align="center">
-  <img width=400px height=300px src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/75825featured2.png" alt="Project logo"></a>
+  <img width=400px height=300px src="https://external-preview.redd.it/14WMgYE1HNhOwfMTRgxLIqAGWR2l4SVlP2fLwB0S41U.jpg?width=640&crop=smart&auto=webp&s=f77a137c916ff8287afa1e5c8cd0f10a8f5f9b3e" alt="Project logo"></a>
   <h3 align="center">WatchNext</h3>
   <div align="center">
   </div>
@@ -13,7 +13,6 @@
   - [About](#about)
   - [Prerequisites](#prerequisites)
   - [Built Using](#built_using)
-  - [Dataset](#dataset)
   - [Blog](#blog)
   
   ## 💭 About <a name = "about"></a>
@@ -27,7 +26,13 @@
   3) Jupyter notebook : The Jupyter Notebook App is a server-client application that allows editing and running notebook documents via a web browser.
   ```
   ## 💻 Built using <a name="built_using"></a>
+  - [Jupyter Notebook](https://jupyter.org/)
+  - [Numpy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Matplotlib](https://matplotlib.org/)
+  
+  ## 🎥 Blog <a name="blog"></a>
+ medium blog: https://medium.com/newolf-society/watchnext-a-recommendation-website-with-a-twist-f8475c9ae67c 
 
-medium blog: https://medium.com/newolf-society/watchnext-a-recommendation-website-with-a-twist-f8475c9ae67c
 
 This repo contains files for a movie recommendation engine that's based on sentiment analysis and content based recommendation
